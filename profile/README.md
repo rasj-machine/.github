@@ -1,4 +1,4 @@
-# 👽 [RASJ](https://github.com/rasj) 👨‍💻 Machine 
+# 👽 RASJ 👨‍💻 Machine 
 
 - Be honest
 - Be good
