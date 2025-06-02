@@ -10,7 +10,7 @@
 - Be awesome
 
 ## [🌐 Namespaces](https://github.com/rasj-machine/code/tree/main/namespaces)
-- 🧙 [@rasj-lab](https://github.com/rasj-lab/codebase)
-- 🌵 [@cactus-lab](https://github.com/rasj-lab-cactus/codebase)
-- 💡 [@misc-lab](https://github.com/rasj-lab-misc/codebase)
-- ∑ &nbsp;[@eve-lab](https://github.com/evemeve-lab/codebase)
+- 🧙 [@rasj-lab](https://github.com/rasj-lab/codespace)
+- 🌵 [@cactus-lab](https://github.com/rasj-lab-cactus/codespace)
+- 💡 [@misc-lab](https://github.com/rasj-lab-misc/codespace)
+- ∑ &nbsp;[@eve-lab](https://github.com/evemeve-lab/codespace)
