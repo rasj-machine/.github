@@ -1,4 +1,4 @@
-# [👽 rasj-machine 👨‍💻](https://github.com/orgs/rasj-machine/repositories)
+# [👽 rasj-machine/👨‍💻](https://github.com/orgs/rasj-machine/repositories)
 
 ## [🏠 Home](https://github.com/rasj-machine/home)
 
