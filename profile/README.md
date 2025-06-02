@@ -1,6 +1,6 @@
 # [👽 rasj-machine/👨‍💻](https://github.com/orgs/rasj-machine)
 
-#### [Repositories](https://github.com/orgs/rasj-machine/repositories) | [Actions](https://github.com/rasj-machine/.github/actions)
+#### [Repositories](https://github.com/orgs/rasj-machine/repositories?q=visibility%3Aprivate+archived%3Afalse) | [Actions](https://github.com/rasj-machine/.github/actions)
 
 
 ## [🏠 Home](https://github.com/rasj-machine/home)
