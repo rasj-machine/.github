@@ -10,4 +10,4 @@
 - 🧙 [@rasj-lab](https://github.com/rasj-lab/codebase)
 - 🌵 [@cactus-lab](https://github.com/rasj-lab-cactus/codebase)
 - 🗃️ [@misc-lab](https://github.com/rasj-lab-misc/codebase)
-- ∑  [@eve-lab](https://github.com/evemeve-lab/codebase)
+- ∑ &nbsp;[@eve-lab](https://github.com/evemeve-lab/codebase)
