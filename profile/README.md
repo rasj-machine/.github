@@ -14,3 +14,8 @@
 - 🌵 [@cactus-lab](https://github.com/rasj-lab-cactus/codespace)
 - 💡 [@misc-lab](https://github.com/rasj-lab-misc/codespace)
 - ∑ &nbsp;[@eve-lab](https://github.com/evemeve-lab/codespace)
+
+
+## 😎 2 Primary Rules
+- You don't stop
+- You keep going
